@@ -1,3 +1,2 @@
 # Sketchpad
-Test
-nano
+## The Odin Project Assignment
