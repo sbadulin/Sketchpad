@@ -1,0 +1,24 @@
+#container {
+  margin: 50px auto;
+  width: 960px;
+  background-attachment: salmon;
+}
+.tile {
+  margin: 0;
+  background-color: rgb(128, 128, 128);
+  /*width: 6.25%;*/
+  /*height: 100%;*/
+  display: inline-block;
+}
+.row {
+  width: 960px;
+}
+.selected {
+  background-color: blue;
+}
+button {
+  width: 80px;
+  height: 40px;
+  margin: 0 50px 20px 0;
+  background-color: gold;
+}
